@@ -1,4 +1,4 @@
-## Go Ethereum
+## Modified Geth to use HBBFT 
 
 Official golang implementation of the Ethereum protocol.
 
